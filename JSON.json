@@ -1,0 +1,11 @@
+{
+	"username":"Username",
+	"password":"Password",
+	"email":"E-mail",
+	"phone":"Phone number",
+	"url":"URL",
+	"website":"Website",
+	"address":"Address",
+	"blog":"Blog",
+	"home":"Home Page"
+}
