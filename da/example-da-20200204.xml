@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<translatable_element_one its_attribute='translatable'>
+		<text language='english'>Translated</text>
+		<context></context>
+		<context_key></context_key>
+		<segment_length></segment_length>
+	</translatable_element_one>
+
+	<translatable_element_two its_attribute='translatable'>
+		<text language='english' context_key='12345' context='Alternative approach to note.' segment_length='35'></text>
+	</translatable_element_two>
+</root>
